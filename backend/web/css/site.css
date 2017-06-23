@@ -1,0 +1,7 @@
+.content h1{display: none;}
+.content p a{float: right;margin-bottom: 20px;margin-left: 10px;}
+.table-bordered {border: 1px solid #000000;}
+.table-bordered>thead>tr>th, .table-bordered>tbody>tr>th, .table-bordered>tfoot>tr>th, .table-bordered>thead>tr>td, .table-bordered>tbody>tr>td, .table-bordered>tfoot>tr>td {border: 1px solid #b9b9b9;}
+.sidebar-menu>li.active{border-left:2px solid;}
+.grid-view .summary{margin-bottom: 10px;}
+.grid-view table th{text-align: center;}

@@ -1,0 +1,2340 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"CmsPate",
+				"CmsPageTypeID\t(CmsPages.php)"
+			],
+			[
+				"CmsPa",
+				"CmsPageTypes\t(CmsPages.php)"
+			],
+			[
+				"searc",
+				"searchModel"
+			],
+			[
+				"cms_",
+				"cms_page_types\t(CmsPageTypes.php)"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"marig",
+				"margin-bottom"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"create",
+				"CreatedByID〔variable〕"
+			],
+			[
+				"conf",
+				"config"
+			],
+			[
+				"cols",
+				"col-sm-12"
+			],
+			[
+				"panel",
+				"panel-body"
+			],
+			[
+				"le",
+				"legend\tTag"
+			],
+			[
+				"form",
+				"form-group"
+			],
+			[
+				"col",
+				"col-md-6"
+			],
+			[
+				"cop",
+				"copytoright"
+			],
+			[
+				"title",
+				"title\tAttr"
+			],
+			[
+				"java",
+				"javascript:void"
+			],
+			[
+				"sty",
+				"style\tAttr"
+			],
+			[
+				"pane",
+				"panel-body"
+			],
+			[
+				"div",
+				"div\tTag"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"errr",
+				"error"
+			],
+			[
+				"bs",
+				"bs3-cdn\tbs3-cdn"
+			],
+			[
+				"count",
+				"countdown"
+			],
+			[
+				"link",
+				"links\tlink - stylesheet"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"style",
+				"style\t<style>"
+			],
+			[
+				"gra",
+				"gradientSpeed\t(gradient.js)"
+			],
+			[
+				"scrip",
+				"script\tHTML - Script"
+			],
+			[
+				"back",
+				"background\t(gradient.js)"
+			],
+			[
+				"Course",
+				"CourseID\t(UsersController.php)"
+			],
+			[
+				"C",
+				"Course\t(June'17.todo)"
+			],
+			[
+				"find",
+				"findByPk〔function〕"
+			],
+			[
+				"hide",
+				"hidden"
+			],
+			[
+				"CourseC",
+				"CourseCode\t(Courses.php)"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"att",
+				"attributes\t(UsersController.php)"
+			],
+			[
+				"Firs",
+				"FirstName"
+			],
+			[
+				"Nmae",
+				"Name"
+			],
+			[
+				"courseid",
+				"courseid"
+			],
+			[
+				"UserId",
+				"UserID\t(UsersController.php)"
+			],
+			[
+				"javas",
+				"javascript:void\t(_student.php)"
+			],
+			[
+				"targe",
+				"target=\"_blank\t(_student.php)"
+			],
+			[
+				"newTr",
+				"newTraienrName"
+			],
+			[
+				"Tra",
+				"TrainerID"
+			],
+			[
+				"getfu",
+				"getUserFullName\t(Users.php)"
+			],
+			[
+				"oldTra",
+				"oldTrainer"
+			],
+			[
+				"cu",
+				"curl"
+			],
+			[
+				"CURLH",
+				"CURLOPT_HEADER〔constant〕"
+			],
+			[
+				"CURL",
+				"CURLOPT_PROXY\t(UsersController.php)"
+			],
+			[
+				"Payment",
+				"PaymentStatus"
+			],
+			[
+				"traier",
+				"trainer"
+			],
+			[
+				"CourseStudent",
+				"CourseStudents"
+			],
+			[
+				"e",
+				"getError〔function〕"
+			],
+			[
+				"erro",
+				"getErrors〔function〕"
+			],
+			[
+				"errors",
+				"hasErrors〔function〕"
+			],
+			[
+				"attr",
+				"attributes"
+			],
+			[
+				"valida",
+				"validate"
+			],
+			[
+				"State",
+				"StateID"
+			],
+			[
+				"CourseS",
+				"CourseStates"
+			],
+			[
+				"course",
+				"courses"
+			],
+			[
+				"trainerc",
+				"traienercourses"
+			],
+			[
+				"user",
+				"user\tYii user->"
+			],
+			[
+				"Yii",
+				"Yii::app\t(UsersController.php)"
+			],
+			[
+				"Usre",
+				"UserID"
+			],
+			[
+				"Tr",
+				"TrainerID"
+			],
+			[
+				"curl",
+				"curl_getinfo〔function〕"
+			],
+			[
+				"curl_setop",
+				"curl_setopt〔function〕"
+			],
+			[
+				"curl_info",
+				"curl_getinfo"
+			],
+			[
+				"CURLOPT_PROX",
+				"CURLOPT_PROXY〔constant〕"
+			],
+			[
+				"print",
+				"print_r($_POST\t(CoursesController.php)"
+			],
+			[
+				"CURLOPT_SSLV",
+				"CURLOPT_SSL_VERIFYPEER\t(StudentsController.php)"
+			],
+			[
+				"focus",
+				"focusin\t.focusin()"
+			],
+			[
+				"pre",
+				"pre\techopre"
+			],
+			[
+				"compe",
+				"competencyTable"
+			],
+			[
+				"dat",
+				"datum"
+			],
+			[
+				"Compe",
+				"CompetencyID"
+			],
+			[
+				"outp",
+				"output"
+			],
+			[
+				"error",
+				"error_reporting〔function〕"
+			],
+			[
+				"wi",
+				"with"
+			],
+			[
+				"EmailTEmPateT",
+				"EmailTemplateTypes〔class〕"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"tur",
+				"true\t(Users.php)"
+			],
+			[
+				"front",
+				"frontend"
+			],
+			[
+				"MAILC",
+				"MAILCHIMP_API_LIST_ID"
+			],
+			[
+				"para",
+				"params['paramName\t(main.php)"
+			],
+			[
+				"mail",
+				"mailchimp\t(MailchimpForm.php)"
+			],
+			[
+				"panle",
+				"panel-body"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"fornt",
+				"frontend\t(June'17.todo)"
+			],
+			[
+				"yiiapp",
+				"yii2app"
+			],
+			[
+				"text",
+				"text-danger"
+			],
+			[
+				"Las",
+				"LastName\t(UsersController.php)"
+			],
+			[
+				"Fir",
+				"FirstName\t(UsersController.php)"
+			],
+			[
+				"tra",
+				"trainer"
+			],
+			[
+				"RoleNam",
+				"RoleName"
+			],
+			[
+				"temp",
+				"tempArray"
+			],
+			[
+				"colsm",
+				"col-sm-9"
+			],
+			[
+				"contro",
+				"control-label"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"Role",
+				"RoleID"
+			],
+			[
+				"script",
+				"script\tTag"
+			],
+			[
+				"posta",
+				"postautocomplete"
+			],
+			[
+				"ori",
+				"originalPostForm"
+			],
+			[
+				"settime",
+				"setTimeout〔function〕"
+			],
+			[
+				"setTime",
+				"setTimeout〔function〕"
+			],
+			[
+				"has",
+				"hasClass〔function〕"
+			],
+			[
+				"1950",
+				"1950"
+			],
+			[
+				"Stu",
+				"StudentID"
+			],
+			[
+				"student",
+				"studentProfile"
+			],
+			[
+				"contr",
+				"control-label"
+			],
+			[
+				"sch",
+				"schoolClass"
+			],
+			[
+				"read",
+				"ready\t$(document).ready"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"scri",
+				"script\tTag"
+			],
+			[
+				"select",
+				"selectpicker"
+			],
+			[
+				"StudentP",
+				"$studenttypetwomatches〔variable〕"
+			],
+			[
+				"explo",
+				"explode\t(Users.php)"
+			],
+			[
+				"PriorEducation",
+				"PriorEducationType\t(StudentsController.php)"
+			],
+			[
+				"prior",
+				"priorEducation"
+			],
+			[
+				"DisA",
+				"DisabilityType\t(StudentsController.php)"
+			],
+			[
+				"dis",
+				"disabilities"
+			],
+			[
+				"disa",
+				"disabilities\t(UsersController.php)"
+			],
+			[
+				"va",
+				"valid"
+			],
+			[
+				"Prior",
+				"PriorEducation"
+			],
+			[
+				"Disa",
+				"Disability"
+			],
+			[
+				"CHTML",
+				"CHtml::encode($post\t(CHtml.php)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "backend/models/CmsPages.php",
+			"settings":
+			{
+				"buffer_size": 2151,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "backend/controllers/CmsPagesController.php",
+			"settings":
+			{
+				"buffer_size": 3367,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "backend/models/CmsPageTypesSearch.php",
+			"settings":
+			{
+				"buffer_size": 1650,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "backend/models/CmsPageSearch.php",
+			"settings":
+			{
+				"buffer_size": 2032,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "backend/models/CmsPageTypes.php",
+			"settings":
+			{
+				"buffer_size": 1230,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "delet",
+		"selected_items":
+		[
+			[
+				"delet",
+				"Trimmer: Delete empty lines."
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"set ph",
+				"Set Syntax: PHP"
+			],
+			[
+				"set p",
+				"Set Syntax: Python"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"sette",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"trimmer",
+				"Trimmer: Delete empty lines."
+			],
+			[
+				"set php",
+				"Set Syntax: PHP"
+			],
+			[
+				"tast",
+				"Tasks: New document"
+			],
+			[
+				"set plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"set text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"set tex",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"delete",
+				"Trimmer: Delete empty lines."
+			],
+			[
+				"set ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"setphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"sethtl",
+				"Set Syntax: HTML"
+			],
+			[
+				"tasks:",
+				"Tasks: New document"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"codeFormatter:",
+				"CodeFormatter: Format as Javascript Syntax"
+			],
+			[
+				"codeF",
+				"CodeFormatter: Format as PHP Syntax"
+			],
+			[
+				"dele",
+				"Trimmer: Delete empty lines."
+			],
+			[
+				"pla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"set sql",
+				"Set Syntax: SqLite"
+			],
+			[
+				"new do",
+				"Tasks: New document"
+			],
+			[
+				"toggle m",
+				"View: Toggle Minimap"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"tasknew",
+				"Tasks: New document"
+			],
+			[
+				"new ",
+				"Tasks: New"
+			],
+			[
+				"isnta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"A File Icon: Environment"
+			],
+			[
+				"themr",
+				"Themr: List themes"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"Material Theme: Configuration"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"mate",
+				"Material Theme: Configuration"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 514.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Projects/wamp64/www/yii2-app",
+		"/D/Projects/wamp64/www/yii2-app/backend",
+		"/D/Projects/wamp64/www/yii2-app/backend/assets",
+		"/D/Projects/wamp64/www/yii2-app/backend/controllers",
+		"/D/Projects/wamp64/www/yii2-app/backend/models",
+		"/D/Projects/wamp64/www/yii2-app/backend/web",
+		"/D/Projects/wamp64/www/yii2-app/backend/web/css",
+		"/D/Projects/wamp64/www/yii2-app/console/config",
+		"/D/Projects/wamp64/www/yii2-app/frontend/web",
+		"/D/Projects/wamp64/www/yii2-app/vendor",
+		"/D/Projects/wamp64/www/yii2-app/vendor/almasaeed2010",
+		"/D/Projects/wamp64/www/yii2-app/vendor/almasaeed2010/adminlte",
+		"/D/Projects/wamp64/www/yii2-app/vendor/almasaeed2010/adminlte/dist",
+		"/D/Projects/wamp64/www/yii2-app/vendor/almasaeed2010/adminlte/dist/css",
+		"/D/Projects/wamp64/www/yii2-app/vendor/dmstr",
+		"/D/Projects/wamp64/www/yii2-app/vendor/dmstr/yii2-adminlte-asset",
+		"/D/Projects/wamp64/www/yii2-app/vendor/dmstr/yii2-adminlte-asset/example-views",
+		"/D/Projects/wamp64/www/yii2-app/vendor/dmstr/yii2-adminlte-asset/example-views/phundament/app/default",
+		"/D/Projects/wamp64/www/yii2-app/vendor/dmstr/yii2-adminlte-asset/example-views/phundament/app/layouts",
+		"/D/Projects/wamp64/www/yii2-app/vendor/dmstr/yii2-adminlte-asset/example-views/phundament/app/security",
+		"/D/Projects/wamp64/www/yii2-app/vendor/dmstr/yii2-adminlte-asset/web",
+		"/D/Projects/wamp64/www/yii2-app/vendor/fortawesome/font-awesome/src",
+		"/D/Projects/wamp64/www/yii2-app/vendor/fortawesome/font-awesome/src/3.2.1",
+		"/D/Projects/wamp64/www/yii2-app/vendor/fortawesome/font-awesome/src/3.2.1/assets",
+		"/D/Projects/wamp64/www/yii2-app/vendor/fortawesome/font-awesome/src/3.2.1/assets/js",
+		"/D/Projects/wamp64/www/yii2-app/vendor/yiisoft",
+		"/D/Projects/wamp64/www/yii2-app/vendor/yiisoft/yii2",
+		"/D/Projects/wamp64/www/yii2-app/vendor/yiisoft/yii2/widgets"
+	],
+	"file_history":
+	[
+		"/D/Projects/wamp64/www/yii2-app/backend/views/cms-pages/index.php",
+		"/D/Projects/wamp64/www/yii2-app/backend/views/cms-pages/update.php",
+		"/D/Projects/wamp64/www/yii2-app/backend/views/cms-page-types/index.php",
+		"/D/Projects/wamp64/www/yii2-app/backend/views/cms-page-types/update.php",
+		"/D/Projects/wamp64/www/yii2-app/backend/views/cms-pages/view.php",
+		"/D/Projects/wamp64/www/yii2-app/backend/views/cms-page-types/view.php",
+		"/D/Projects/wamp64/www/yii2-app/backend/views/cms-pages/_form.php",
+		"/D/Projects/wamp64/www/yii2-app/backend/views/cms-pages/create.php",
+		"/D/Projects/wamp64/www/yii2-app/backend/views/cms-page-types/create.php",
+		"/D/Projects/wamp64/www/yii2-app/backend/views/cms-page-types/_form.php",
+		"/D/Projects/wamp64/www/yii2-app/backend/views/user/_form.php",
+		"/D/Projects/wamp64/www/yii2-app/backend/views/user/create.php",
+		"/D/Projects/wamp64/www/yii2-app/backend/views/user/index.php",
+		"/D/Projects/wamp64/www/yii2-app/backend/views/user/update.php",
+		"/D/Projects/wamp64/www/yii2-app/backend/views/user/view.php",
+		"/D/Projects/wamp64/www/yii2-app/backend/config/main.php",
+		"/D/Projects/wamp64/www/yii2-app/backend/web/css/site.css",
+		"/D/Projects/wamp64/www/yii2-app/backend/assets/AppAsset.php",
+		"/D/Projects/wamp64/www/yii2-app/vendor/yiisoft/yii2/widgets/ActiveField.php",
+		"/D/Projects/wamp64/www/yii2-app/backend/views/layouts/main.php",
+		"/D/Projects/wamp64/www/yii2-app/backend/views/site/index.php",
+		"/D/Projects/wamp64/www/yii2-app/backend/views/cms-page-types/_search.php",
+		"/D/Projects/wamp64/www/yii2-app/backend/controllers/UserController.php",
+		"/D/Projects/wamp64/www/yii2-app/backend/controllers/CmsPagesController.php",
+		"/D/Projects/wamp64/www/yii2-app/backend/controllers/CmsPageTypesController.php",
+		"/D/Projects/wamp64/www/yii2-app/vendor/dmstr/yii2-adminlte-asset/web/AdminLteAsset.php",
+		"/D/Projects/wamp64/www/yii2-app/vendor/almasaeed2010/adminlte/dist/css/AdminLTE.min.css",
+		"/D/Projects/wamp64/www/yii2-app/vendor/yiisoft/yii2/web/View.php",
+		"/D/Projects/wamp64/www/yii2-app/backend/web/.htaccess",
+		"/D/Projects/wamp64/www/yii2-app/frontend/config/main.php",
+		"/D/Projects/wamp64/www/yii2-app/backend/.htaccess",
+		"/D/Projects/wamp64/www/yii2-app/backend/controllers/SiteController.php",
+		"/D/Projects/wamp64/www/yii2-app/backend/models/CmsPages.php",
+		"/D/Projects/wamp64/www/yii2-app/backend/models/CmsPageSearch.php",
+		"/D/Projects/wamp64/www/yii2-app/backend/models/CmsPagesQuery.php",
+		"/D/Projects/wamp64/www/yii2-app/backend/models/CmsPageTypes.php",
+		"/D/Projects/wamp64/www/yii2-app/backend/models/CmsPageTypesQuery.php",
+		"/D/Projects/wamp64/www/yii2-app/backend/models/CmsPageTypesSearch.php",
+		"/D/Projects/wamp64/www/yii2-app/backend/models/UserSearch.php",
+		"/D/Projects/wamp64/www/yii2-app/backend/models/User.php",
+		"/D/Projects/wamp64/www/yii2-app/backend/views/layouts/left.php",
+		"/D/Projects/wamp64/www/yii2-app/backend/views/layouts/content.php",
+		"/D/Projects/wamp64/www/yii2-app/console/config/main.php",
+		"/D/Projects/wamp64/www/yii2-app/vendor/yiisoft/yii2/base/Controller.php",
+		"/D/Projects/wamp64/www/maps/index.php",
+		"/D/Projects/wamp64/www/maps/skywise-swarm-maps-js-master/examples/google.html",
+		"/D/Projects/wamp64/www/maps/skywise-swarm-maps-js-master/examples/keys.js",
+		"/D/Projects/wamp64/www/maps/skywise-swarm-maps-js-master/dist/skywise-tiles.google.src.js",
+		"/C/Users/pcs157/AppData/Local/Temp/fz3temp-2/keys.js",
+		"/D/Projects/wamp64/www/maps/imaplite.html",
+		"/D/Projects/wamp64/www/maps/imaplite_files/bundle.min.js.download",
+		"/E/Other/todo/June'17.todo",
+		"/C/Users/pcs157/Desktop/old.txt",
+		"/D/Projects/wamp64/www/universal_training/protected/controllers/UsersController.php",
+		"/D/Projects/wamp64/www/universal_training/themes/backend/views/courses/enrolledStudents.php",
+		"/D/Projects/wamp64/www/universal_training/themes/backend/views/students/_student.php",
+		"/D/Projects/wamp64/www/universal_training/themes/backend/views/users/_updatestudent.php",
+		"/D/Projects/wamp64/www/universal_training/themes/backend/views/students/_enrollStudent.php",
+		"/D/Projects/wamp64/www/universal_training/themes/backend/views/users/_form.php",
+		"/D/Projects/wamp64/www/universal_training/protected/controllers/StudentsController.php",
+		"/D/Projects/wamp64/www/universal_training/themes/backend/views/users/_student.php",
+		"/D/Projects/wamp64/www/universal_training/themes/frontend/views/students/_student.php",
+		"/D/Projects/wamp64/www/universal_training/framework/web/helpers/CHtml.php",
+		"/D/Projects/wamp64/www/universal_training/themes/backend/views/courses/_form.php",
+		"/D/Projects/wamp64/www/universal_training/protected/models/Courses.php",
+		"/D/Projects/wamp64/www/universal_training/protected/models/TrainerCourses.php",
+		"/D/Projects/wamp64/www/universal_training/themes/backend/views/users/update.php",
+		"/D/Projects/wamp64/www/universal_training/themes/backend/views/users/viewstudent.php",
+		"/D/Projects/wamp64/www/universal_training/themes/backend/views/layouts/main.php",
+		"/D/Projects/wamp64/www/universal_training/new_template_assets/css/app/app.min.css",
+		"/D/Projects/wamp64/www/universal_training/themes/frontend/views/layouts/main-nav.php",
+		"/D/Projects/wamp64/www/universal_training/new_template_assets/css/vendor/all.min.css",
+		"/D/Projects/wamp64/www/demos/gradient/index.html",
+		"/D/Projects/nodeScrape/server.js",
+		"/D/Projects/nodeScrape/output.html",
+		"/D/Projects/wamp64/www/demos/gradient/js/countdown.js",
+		"/D/Projects/nodeScrape/error.txt",
+		"/D/Projects/nodeScrape/output.json",
+		"/D/Projects/nodeScrape/html.html",
+		"/D/Projects/nightmare/package.json",
+		"/D/Projects/nightmare/nightmare-master/package.json",
+		"/D/Projects/wamp64/www/demos/gradient/countdown.js",
+		"/D/Projects/wamp64/www/demos/gradient/gradient.js",
+		"/D/Projects/wamp64/www/demos/gradient/css/style.css",
+		"/C/Users/pcs157/AppData/Local/Temp/fz3temp-2/trainer.php",
+		"/D/Projects/nightmare/nightmare-master/sahil/package.json",
+		"/D/Projects/nightmare/nightmare-master/example.js",
+		"/D/Projects/nightmare/nightmare-master/Readme.md",
+		"/D/Projects/phantomjs/myJS/mad.coop.dk.js",
+		"/D/Projects/phantomjs/myJS/1.html",
+		"/D/Projects/phantomjs/myJS/helloWorld.js",
+		"/D/Projects/phantomjs/myJS/github.js",
+		"/D/Projects/phantomjs/third-party.txt",
+		"/D/Projects/wamp64/www/universal_training/protected/models/Users.php",
+		"/D/Projects/wamp64/www/universal_training/themes/backend/views/users/view.php",
+		"/D/Projects/wamp64/www/universal_training/themes/backend/views/students/viewstudent.php",
+		"/D/Projects/wamp64/www/universal_training/themes/backend/views/students/view.php",
+		"/D/Projects/wamp64/www/universal_training/themes/backend/views/courseStudents/view.php",
+		"/D/Projects/wamp64/www/universal_training/themes/backend/views/competencies/view.php",
+		"/D/Projects/wamp64/www/universal_training/themes/backend/views/assessmentInstructions/view.php",
+		"/D/Projects/wamp64/www/universal_training/themes/frontend/views/courses/studentcourses.php",
+		"/D/Projects/wamp64/www/universal_training/protected/controllers/CoursesController.php",
+		"/D/Projects/wamp64/www/universal_training/themes/backend/views/students/update.php",
+		"/D/Projects/wamp64/www/universal_training/protected/controllers/CompetenciesController.php",
+		"/D/Projects/wamp64/www/universal_training/themes/backend/views/users/create.php",
+		"/D/Projects/wamp64/www/universal_training/themes/backend/views/students/_form.php",
+		"/D/Projects/wamp64/www/universal_training/protected/views/courses/_form.php",
+		"/E/ProjectDocs/universal_institute/credentials_UTI.txt",
+		"/C/Users/pcs157/AppData/Local/Temp/fz3temp-2/_form.php",
+		"/C/Users/pcs157/AppData/Local/Temp/fz3temp-2/column2.php",
+		"/C/Users/pcs157/AppData/Local/Temp/fz3temp-2/studentcourses.php",
+		"/C/Users/pcs157/AppData/Local/Temp/fz3temp-2/CourseStudentsController.php",
+		"/D/Projects/Time Manager/Time Entries/Monday, June 19, 2017.txt",
+		"/C/Users/pcs157/AppData/Local/Temp/fz3temp-2/application.log",
+		"/C/Users/pcs157/Downloads/email_templates (3).sql",
+		"/C/Users/pcs157/Downloads/email_templates (4).sql",
+		"/D/Projects/wamp64/www/universal_training/protected/controllers/CandidateHandbookController.php",
+		"/C/Users/pcs157/AppData/Local/Temp/fz3temp-2/CandidateHandbookController.php",
+		"/C/Users/pcs157/AppData/Local/Temp/fz3temp-2/CandidateHandbookUsersController.php",
+		"/C/Users/pcs157/AppData/Local/Temp/fz3temp-2/main.php",
+		"/D/Projects/wamp64/www/universal_training/protected/config/main.php",
+		"/D/Projects/wamp64/www/universal_training/protected/models/CourseStudents.php",
+		"/D/Projects/wamp64/www/universal_training/protected/views/users/view.php",
+		"/D/Projects/wamp64/www/universal_training/framework/zii/widgets/CDetailView.php",
+		"/D/Projects/wamp64/www/universal_training/protected/controllers/CourseStudentsController.php",
+		"/D/Projects/wamp64/www/universal_training/themes/backend/views/users/admin.php",
+		"/D/Projects/wamp64/www/universal_training/protected/views/dashboard/admin.php",
+		"/D/Projects/wamp64/www/universal_training/themes/backend/views/dashboard/admin.php"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 113.0,
+		"where_history":
+		[
+			"D:\\Projects\\wamp64\\www\\universal_training\\themes\\backend, *.php",
+			"D:\\Projects\\wamp64\\www\\universal_training\\protected\\views, *.php",
+			"D:\\Projects\\wamp64\\www\\universal_training\\themes\\backend, *.php",
+			"D:\\Projects\\wamp64\\www\\universal_training\\, *.php",
+			"D:\\Projects\\xampp\\htdocs\\tailorsmark_au\\, *.php",
+			"D:\\Projects\\wamp64\\www\\universal_training\\, *.php",
+			"D:\\Projects\\xampp\\htdocs\\tailorsmark_nz, *.php",
+			"D:\\Projects\\xampp\\htdocs\\tailorsmark_au, *.php",
+			"D:\\Projects\\xampp\\htdocs\\tailorsmark_nz\\, *.php",
+			"D:\\Projects\\wamp64\\www\\universal_training\\, *.php",
+			"D:\\Projects\\wamp64\\www\\universal_training\\protected, *.php",
+			"D:\\Projects\\wamp64\\www\\universal_training\\themes, *.php",
+			"D:\\Projects\\wamp64\\www\\universal_training\\themes, .*php",
+			"D:\\Projects\\wamp64\\www\\universal_training\\, .*php",
+			"D:\\Projects\\wamp64\\www\\universal_training\\",
+			"D:\\Projects\\wamp64\\www\\universal_training\\protected",
+			"D:\\Projects\\wamp64\\www\\universal_training\\",
+			"D:\\Projects\\wamp64\\www\\universal_training\\protected\\",
+			"D:\\Projects\\wamp64\\www\\universal_training\\",
+			"D:\\Projects\\wamp64\\www\\universal_training\\, *.php",
+			"D:\\Projects\\wamp64\\www\\universalinstitute\\, *.php",
+			"D:\\Projects\\wamp64\\www\\universalinstitute\\",
+			"D:\\Projects\\wamp64\\www\\universalinstitute\\protected",
+			"D:\\Projects\\wamp64\\www\\universalinstitute\\protected\\views\\competencies",
+			"D:\\Projects\\wamp64\\www\\universalinstitute\\",
+			"D:\\Projects\\wamp64\\www\\universalinstitute\\protected",
+			"D:\\Projects\\wamp64\\www\\universalinstitute\\protected\\views\\",
+			"D:\\Projects\\xampp\\htdocs\\tailorsmark_us\\includes",
+			"D:\\Projects\\xampp\\htdocs\\tailorsmark_uk\\application",
+			"D:\\Projects\\xampp\\htdocs\\tailorsmark_uk\\",
+			"D:\\Projects\\xampp\\htdocs\\tailorsmark_uk\\, *.php",
+			"D:\\Projects\\xampp\\htdocs\\tailorsmark_us\\, *.php",
+			"D:\\Projects\\xampp\\htdocs\\tailorsmark_us\\",
+			"D:\\Projects\\xampp\\htdocs\\tailorsmark_uk\\live\\"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"CmsPageTypes",
+			"$this->options",
+			"css",
+			"cssFiles",
+			"PH_HEAD",
+			"dist/img/",
+			"->search(",
+			"search",
+			"h1>",
+			"title",
+			";\n",
+			"app",
+			"client",
+			"client_id",
+			"api",
+			"key",
+			"Yii::app()->user->RoleID",
+			"\"/>",
+			"class=\"space",
+			"class",
+			"type=\"radio\"",
+			"dic",
+			"half-width-form-control",
+			"form-group",
+			"<label",
+			"pull-left space",
+			"PaymentTypeToggle",
+			"<option",
+			"payment",
+			"School Name",
+			"selectpicker",
+			"<div class=\"col-sm-9\">",
+			"<div class=\"row\" style=\"padding-bottom: 10px;\"",
+			"col-sm-3 control-label",
+			"copytoright",
+			"array(",
+			",array(",
+			", array",
+			"12",
+			"<div class=\"form-group col-md-12\">",
+			"title",
+			"<?php echo $form->textField($model,",
+			"<?php echo $form->labelEx($model",
+			"echo $form->labelEx($model,",
+			"<?php echo $form->labelEx($model",
+			"echo $form->labelEx($studentProfile",
+			"form-group form-control-material static",
+			"<div class=\"col-sm-9\">",
+			"#users-form",
+			"users-form",
+			", array(",
+			"'style'=>'border:1px solid #b5",
+			"style=\"padding-bottom: 10px;\"",
+			"selectpicker",
+			"$form->labelEx($model",
+			"<?php echo $form->labelEx($model, ",
+			".form-control {",
+			".form-control{",
+			"br",
+			"form-group form-control-material static",
+			"<?php echo $form->labelEx($model,'",
+			"JSON.stringify(json, null, 4)",
+			"span",
+			"500",
+			"Students:",
+			"student",
+			"tbl_",
+			"Set up an instance",
+			"Extract from the page",
+			"#extract-from-the-page",
+			"{{",
+			"zii.widgets.CDetailView",
+			"'zii.widgets.CDetailView'",
+			"$this->widget('zii.widgets.CDetailView'",
+			"trainerQualification",
+			"qualifi",
+			"foreach($allCourseIDs as $key => $singleCourseID)",
+			"$allCourseIDs = $_POST['TrainerCourses']['CourseID'];",
+			"$allCourseIDs = $_POST['TrainerCours",
+			"$allCourseIDs = $_POST['TrainerCourses']['CourseID'];",
+			"$trainerCourses",
+			"            $",
+			"deletequalification",
+			"$Courses->",
+			"modelTQ",
+			"12",
+			"modelTQ",
+			"Qualifications",
+			"coursecompetency",
+			"selectedcompetency",
+			"Code",
+			"competencyname",
+			"Competency",
+			"compe",
+			"competencyTable",
+			"removeCompetency",
+			"GetCourseAjax",
+			"action",
+			"getCourseAjax",
+			"competencytype",
+			"CompetencyType",
+			"competencytype",
+			"CompetencyType",
+			"CompetencyID",
+			"CourseTrainers",
+			"coursesTrainer",
+			"CourseCompetencies",
+			"CourseCompetencies_",
+			"competency",
+			"competencies",
+			"AjaxCompetenciesList",
+			"Competency",
+			"competency",
+			"Competency",
+			"competency",
+			"Competency",
+			"competency",
+			"Competency",
+			"competency",
+			"Competency",
+			"competency",
+			"Competency",
+			"competency",
+			"Competency",
+			"competency",
+			"Competency",
+			"competency",
+			"Competency"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$StudentProfile",
+			"<div class=\"form-group form-control-material static\">",
+			"Loose fit. plenty of room to move",
+			"Classic, traditional fit",
+			"Tailored fit but not too tight",
+			"Very slim and close to the body",
+			"Skinny",
+			"Standard",
+			"Muscular",
+			"Overweight",
+			"Both",
+			"UnTucked",
+			"Tucked",
+			"long",
+			"normal",
+			"short",
+			"in",
+			"cm",
+			"kg",
+			"lb",
+			"ft",
+			"cm"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "backend/models/CmsPages.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2151,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1854,
+								1866
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1866,
+										1867
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/single_quote.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1853,
+										1854
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/php-grammar/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1296.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "backend/controllers/CmsPagesController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3367,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								952,
+								952
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1193,
+										1194
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										825,
+										826
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/php-grammar/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 864.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "backend/models/CmsPageTypesSearch.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1650,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								240,
+								258
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/php-grammar/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "backend/models/CmsPageSearch.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2032,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								952,
+								952
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										951,
+										952
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										950,
+										951
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/php-grammar/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1008.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "backend/models/CmsPageTypes.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1230,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								502,
+								506
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										506,
+										507
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/single_quote.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										501,
+										502
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/php-grammar/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 504.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 132.0
+	},
+	"pinned_build_system": "",
+	"project": "yiiSkeleton.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"site",
+				"backend\\web\\css\\site.css"
+			],
+			[
+				"css/adminlte.min.css",
+				"vendor\\almasaeed2010\\adminlte\\dist\\css\\AdminLTE.min.css"
+			],
+			[
+				"adminlte.min.css",
+				"vendor\\almasaeed2010\\adminlte\\dist\\css\\AdminLTE.min.css"
+			],
+			[
+				"site.css",
+				"backend\\web\\css\\site.css"
+			],
+			[
+				"",
+				"index.php"
+			],
+			[
+				"enrolledstudents",
+				"themes\\backend\\views\\courses\\enrolledStudents.php"
+			],
+			[
+				"userc",
+				"protected\\controllers\\UsersController.php"
+			],
+			[
+				"column2",
+				"themes\\backend\\views\\layouts\\column2.php"
+			],
+			[
+				"_student",
+				"themes\\backend\\views\\students\\_student.php"
+			],
+			[
+				"_updatestudent",
+				"themes\\backend\\views\\users\\_updatestudent.php"
+			],
+			[
+				"studentsc",
+				"protected\\controllers\\StudentsController.php"
+			],
+			[
+				"students/update",
+				"themes\\backend\\views\\students\\_updatestudent.php"
+			],
+			[
+				"usersc",
+				"protected\\controllers\\UsersController.php"
+			],
+			[
+				"backend/views/users/",
+				"themes\\backend\\views\\users\\_student.php"
+			],
+			[
+				"backend/views/students/",
+				"themes\\backend\\views\\students\\_enrollStudent.php"
+			],
+			[
+				"app.min.css",
+				"new_template_assets\\css\\app\\app.min.css"
+			],
+			[
+				"backemain",
+				"themes\\backend\\views\\layouts\\main.php"
+			],
+			[
+				"nav",
+				"themes\\frontend\\views\\layouts\\main-nav.php"
+			],
+			[
+				"new_template_assets/css/vendor/all.min.css",
+				"new_template_assets\\css\\vendor\\all.min.css"
+			],
+			[
+				"all.min",
+				"new_template_assets\\css\\vendor\\all.min.css"
+			],
+			[
+				"dashboard/tra",
+				"themes\\backend\\views\\dashboard\\trainer.php"
+			],
+			[
+				"studentcourses",
+				"themes\\frontend\\views\\courses\\studentcourses.php"
+			],
+			[
+				"users/view",
+				"themes\\backend\\views\\users\\view.php"
+			],
+			[
+				"coursesc",
+				"protected\\controllers\\CoursesController.php"
+			],
+			[
+				"users/update",
+				"themes\\backend\\views\\users\\update.php"
+			],
+			[
+				"users/create",
+				"themes\\backend\\views\\users\\create.php"
+			],
+			[
+				"competenciesc",
+				"protected\\controllers\\CompetenciesController.php"
+			],
+			[
+				"courses/_form",
+				"themes\\backend\\views\\courses\\_form.php"
+			],
+			[
+				"_student.php",
+				"themes\\backend\\views\\students\\_student.php"
+			],
+			[
+				"students/_from",
+				"themes\\backend\\views\\students\\_form.php"
+			],
+			[
+				"courses/_from",
+				"protected\\views\\courses\\_form.php"
+			],
+			[
+				"users/_form",
+				"themes\\backend\\views\\users\\_form.php"
+			],
+			[
+				"frontend/views/layouts/",
+				"themes\\frontend\\views\\layouts\\main-nav.php"
+			],
+			[
+				"viewstudent",
+				"themes\\backend\\views\\users\\viewstudent.php"
+			],
+			[
+				"users/crea",
+				"themes\\backend\\views\\users\\create.php"
+			],
+			[
+				"/views/studentcourses",
+				"themes\\backend\\views\\users\\studentCourses.php"
+			],
+			[
+				"main",
+				"protected\\config\\main.php"
+			],
+			[
+				"users",
+				"protected\\models\\Users.php"
+			],
+			[
+				"coursestudentsc",
+				"protected\\controllers\\CourseStudentsController.php"
+			],
+			[
+				"backend/views/layouts/",
+				"themes\\backend\\views\\layouts\\column2.php"
+			],
+			[
+				"main.php",
+				"themes\\frontend\\views\\layouts\\main.php"
+			],
+			[
+				"site/index.php",
+				"themes\\frontend\\views\\site\\index.php"
+			],
+			[
+				"site/index",
+				"themes\\frontend\\views\\site\\index.php"
+			],
+			[
+				"candi",
+				"protected\\controllers\\CandidateHandbookUsersController.php"
+			],
+			[
+				"candidatehandbookc",
+				"protected\\controllers\\CandidateHandbookController.php"
+			],
+			[
+				"enrollstudent",
+				"themes\\frontend\\views\\users\\enrollStudent.php"
+			],
+			[
+				"students/",
+				"themes\\frontend\\views\\students\\_student.php"
+			],
+			[
+				"dashboard/admin.php",
+				"protected\\views\\dashboard\\admin.php"
+			],
+			[
+				"dash",
+				"protected\\controllers\\DashboardController.php"
+			],
+			[
+				"user/admin",
+				"themes\\backend\\views\\users\\admin.php"
+			],
+			[
+				"studentc",
+				"protected\\controllers\\StudentsController.php"
+			],
+			[
+				"coursestudent/admin",
+				"themes\\backend\\views\\courseStudents\\admin.php"
+			],
+			[
+				"coursestudent/view",
+				"themes\\backend\\views\\courseStudents\\view.php"
+			],
+			[
+				"coursestudents",
+				"protected\\models\\CourseStudents.php"
+			],
+			[
+				"emailtemplatetypec",
+				"protected\\controllers\\EmailTemplateTypesController.php"
+			],
+			[
+				"emailtempc",
+				"protected\\controllers\\EmailTemplatesController.php"
+			],
+			[
+				"emailtemplates",
+				"protected\\views\\emailTemplates\\admin.php"
+			],
+			[
+				"courses/create",
+				"themes\\backend\\views\\courses\\create.php"
+			],
+			[
+				"quiz/_form",
+				"themes\\backend\\views\\quiz\\_form.php"
+			],
+			[
+				"quizcon",
+				"protected\\controllers\\QuizController.php"
+			],
+			[
+				"asse",
+				"protected\\controllers\\AssessmentsController.php"
+			],
+			[
+				"assessmentrplquestionsc",
+				"protected\\controllers\\AssessmentRplQuestionsController.php"
+			],
+			[
+				"quizc",
+				"protected\\controllers\\QuizController.php"
+			],
+			[
+				"assessmentrplquestions",
+				"protected\\models\\AssessmentRplQuestions.php"
+			],
+			[
+				"emailtemplatesc",
+				"protected\\controllers\\EmailTemplatesController.php"
+			],
+			[
+				"attemptautomaticquiz",
+				"themes\\frontend\\views\\quiz\\AttemptAutomaticQuiz.php"
+			],
+			[
+				"compete",
+				"protected\\controllers\\CompetenciesController.php"
+			],
+			[
+				"users/admin",
+				"themes\\backend\\views\\users\\admin.php"
+			],
+			[
+				"assessmentinstructions/_form",
+				"themes\\backend\\views\\assessmentInstructions\\_form.php"
+			],
+			[
+				"assessmentinstructions/create",
+				"themes\\backend\\views\\assessmentInstructions\\create.php"
+			],
+			[
+				"assessmentinstructions/ad",
+				"themes\\backend\\views\\assessmentInstructions\\admin.php"
+			],
+			[
+				"assessmentinstructions",
+				"protected\\models\\AssessmentInstructions.php"
+			],
+			[
+				"courseschedule/admin",
+				"protected\\views\\courseSchedule\\admin.php"
+			],
+			[
+				"courseschedule",
+				"protected\\models\\CourseSchedule.php"
+			],
+			[
+				"compe",
+				"protected\\controllers\\CompetenciesController.php"
+			],
+			[
+				"statesc",
+				"protected\\controllers\\StatesController.php"
+			],
+			[
+				"packagesc",
+				"protected\\controllers\\PackagesController.php"
+			],
+			[
+				"candidatehandbook",
+				"protected\\controllers\\CandidateHandbookController.php"
+			],
+			[
+				"coursesched",
+				"protected\\views\\courseSchedule\\index.php"
+			],
+			[
+				"mail.",
+				"protected\\config\\mail.php"
+			],
+			[
+				"frontend/views/lay",
+				"themes\\frontend\\views\\layouts\\main.php"
+			],
+			[
+				"student",
+				"protected\\controllers\\StudentsController.php"
+			],
+			[
+				"states/ad",
+				"protected\\views\\states\\admin.php"
+			],
+			[
+				"states",
+				"protected\\models\\States.php"
+			],
+			[
+				"candidatehandbookusers/ad",
+				"protected\\views\\candidateHandbookUsers\\admin.php"
+			],
+			[
+				"candidatehandbookusersc",
+				"protected\\controllers\\CandidateHandbookUsersController.php"
+			],
+			[
+				"candidatehandbookusers",
+				"protected\\models\\CandidateHandbookUsers.php"
+			],
+			[
+				"candidatehandbook/ad",
+				"protected\\views\\candidateHandbook\\admin.php"
+			],
+			[
+				"cmspages/admin",
+				"themes\\backend\\views\\cmsPages\\admin.php"
+			],
+			[
+				"cmspages/ad",
+				"protected\\views\\cmsPages\\admin.php"
+			],
+			[
+				"cmspagesc",
+				"protected\\controllers\\CmsPagesController.php"
+			],
+			[
+				"cmspages",
+				"protected\\models\\CmsPages.php"
+			],
+			[
+				"quiz/",
+				"protected\\views\\quiz\\admin.php"
+			],
+			[
+				"quiz",
+				"protected\\controllers\\QuizController.php"
+			],
+			[
+				"assessments/ad",
+				"protected\\views\\assessments\\admin.php"
+			],
+			[
+				"assessments",
+				"protected\\controllers\\AssessmentsController.php"
+			],
+			[
+				"compet",
+				"protected\\controllers\\CompetenciesController.php"
+			],
+			[
+				"courses",
+				"protected\\models\\Courses.php"
+			],
+			[
+				"competencies",
+				"protected\\models\\Competencies.php"
+			],
+			[
+				"coursecategories/",
+				"protected\\views\\courseCategories\\admin.php"
+			],
+			[
+				"coursecategories",
+				"protected\\controllers\\CourseCategoriesController.php"
+			],
+			[
+				"pcakages/admin",
+				"protected\\views\\packages\\admin.php"
+			],
+			[
+				"packages",
+				"protected\\models\\Packages.php"
+			],
+			[
+				"coursestudent",
+				"protected\\models\\CourseStudents.php"
+			],
+			[
+				"students",
+				"protected\\models\\Students.php"
+			],
+			[
+				"competence",
+				"protected\\controllers\\CompetenciesController.php"
+			],
+			[
+				"controllers/controller.php",
+				"protected\\controllers\\QuizController.php"
+			],
+			[
+				"sitec",
+				"protected\\controllers\\SiteController.php"
+			],
+			[
+				"contactus",
+				"themes\\frontend\\views\\site\\contactus.php"
+			],
+			[
+				"content",
+				"themes\\backend\\views\\site\\content.php"
+			],
+			[
+				"studesc",
+				"protected\\controllers\\StudentsController.php"
+			],
+			[
+				"cour",
+				"protected\\controllers\\CoursesController.php"
+			],
+			[
+				"user",
+				"protected\\models\\Users.php"
+			],
+			[
+				"views/trainer",
+				"themes\\backend\\views\\dashboard\\trainer.php"
+			],
+			[
+				"das",
+				"protected\\controllers\\DashboardController.php"
+			],
+			[
+				"home",
+				"themes\\frontend\\views\\site\\home.php"
+			],
+			[
+				"_changepass",
+				"protected\\views\\users\\_changePass.php"
+			],
+			[
+				"changepassword",
+				"protected\\views\\users\\changepassword.php"
+			],
+			[
+				"browsecourses",
+				"themes\\frontend\\views\\site\\browsecourses.php"
+			],
+			[
+				"dashboard",
+				"protected\\controllers\\DashboardController.php"
+			],
+			[
+				"editpro",
+				"themes\\frontend\\views\\students\\studentEditProfile.php"
+			],
+			[
+				"view",
+				"themes\\backend\\views\\users\\view.php"
+			],
+			[
+				"mail",
+				"protected\\config\\mail.php"
+			],
+			[
+				"verifytoken",
+				"themes\\frontend\\views\\site\\verifyToken.php"
+			],
+			[
+				"addstudent",
+				"themes\\frontend\\views\\students\\addStudent.php"
+			],
+			[
+				"app",
+				"new_template_assets\\css\\app\\app.min.css"
+			],
+			[
+				"tudentcourses.php",
+				"themes\\backend\\views\\users\\studentCourses.php"
+			],
+			[
+				"studentpr",
+				"protected\\models\\StudentProfile.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Projects\\phantomjs\\phantomjs.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 251.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

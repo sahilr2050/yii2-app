@@ -1,0 +1,9 @@
+# Set document root to be "frontend/web"
+# RewriteEngine on
+
+# RewriteBase /yii2-app/
+
+# RewriteCond %{REQUEST_URI} !(frontend|backend)/web/(assets|css)/
+# RewriteCond %{REQUEST_FILENAME} !-f [OR]
+# RewriteCond %{REQUEST_FILENAME} !-d
+# RewriteRule ^(frontend|backend).*$ $1/web/index.php
